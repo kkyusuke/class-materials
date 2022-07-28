@@ -1,0 +1,9 @@
+﻿,WorkingArea,Relationship,CompanyCategory,JobType,Salary,BusinessTrip,CareerType
+a,remote work,Fairness,foreign company,non-client facing,1000man yen,many business trip,Job rotation system
+b,office,Hierarchy,foreign company,client facing,800man yen,many business trip,Job rotation system
+c,office,Fairness,Japanese company,client facing,1000man yen,no business trip,Job rotation system
+d,remote work,Hierarchy,Japanese company,non-client facing,800man yen,no business trip,Job rotation system
+e,remote work,Hierarchy,Japanese company,client facing,1000man yen,many business trip,professional
+f,office,Fairness,Japanese company,non-client facing,800man yen,many business trip,professional
+g,office,Hierarchy,foreign company,non-client facing,1000man yen,no business trip,professional
+h,remote work,Fairness,foreign company,client facing,800man yen,no business trip,professional
